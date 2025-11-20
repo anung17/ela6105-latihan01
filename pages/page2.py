@@ -13,6 +13,7 @@ https://msaqib-genai.medium.com/how-to-create-a-multi-page-app-in-streamlit-7f78
 import streamlit as st
 import plotly.express as px
 import numpy as np
+import matplotlib.pyplot as plt
 
 st.title("Data Visualization")
 
