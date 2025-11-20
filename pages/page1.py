@@ -13,5 +13,5 @@ https://msaqib-genai.medium.com/how-to-create-a-multi-page-app-in-streamlit-7f78
 import streamlit as st
 
 st.title("Welcome to the Anung's Home Page")
-st.write("This is the main landing page of the app.")
+st.write("Ini demo aplikasi streamlit.")
 
