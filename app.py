@@ -11,6 +11,7 @@ https://msaqib-genai.medium.com/how-to-create-a-multi-page-app-in-streamlit-7f78
 """
 
 import streamlit as st
+import pandas as pd
 
 pages = [
     st.Page(page="pages/page1.py", title="Home", icon="🏠"),
