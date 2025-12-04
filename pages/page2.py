@@ -27,4 +27,6 @@ ax.plot(x, y)
 # Display the plot
 st.pyplot(fig)
 
-# df = pd.read_csv("../data/datakelompok.csv")
+df = pd.read_csv("data/datagojekcopy.csv")
+
+st.write(df.head())
