@@ -14,6 +14,7 @@ import streamlit as st
 import plotly.express as px
 import numpy as np
 import matplotlib.pyplot as plt
+import pandas as pd
 
 st.title("Data Visualization")
 
@@ -25,3 +26,5 @@ fig, ax = plt.subplots()
 ax.plot(x, y)
 # Display the plot
 st.pyplot(fig)
+
+# df = pd.read_csv("../data/datakelompok.csv")
