@@ -11,7 +11,13 @@ https://msaqib-genai.medium.com/how-to-create-a-multi-page-app-in-streamlit-7f78
 """
 
 import streamlit as st
+import pandas as pd
 
 st.title("Settings")
 st.write("This page allows you to customize your preferences.")
+
+df = pd.read_csv('data/datagojekcopy.csv')
+st.write(df.tail())
+
+st.write("Simulasi error")
 
