@@ -12,7 +12,7 @@ Multi page streamlit Praktikum Analisa Big Data Ekonomika.
 8. Pastikan aplikasi Streamlit tidak error. Ketik di terminal kedua `streamlit run app.py`.
 9. Ketik di terminal `git status`.
 10. Ketik di terminal `git add NAMAFILE.py`.
-11. Ketik di terminal `git status`.
-12. Ketik di terminal `git commit -m "Menyelesaikan tugas."`.
-13. Ketik di terminal `git push`. Jika ada warning, maka ketik dulu `git pull`, baru kemudian `git push`.
+12. Ketik di terminal `git status`.
+13. Ketik di terminal `git commit -m "Menyelesaikan tugas."`.
+14. Ketik di terminal `git push`. Jika ada warning, maka ketik dulu `git pull`, baru kemudian `git push`.
 
