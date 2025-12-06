@@ -30,3 +30,4 @@ y = np.sin(x)
 df = pd.read_csv("data/datagojekcopy.csv")
 
 st.write(df.head(10))
+st.write(df.tail())
