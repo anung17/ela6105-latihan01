@@ -22,11 +22,11 @@ st.title("Data Visualization")
 x = np.linspace(0, 10, 100)
 y = np.sin(x)
 # Plot data
-fig, ax = plt.subplots()
-ax.plot(x, y)
+# fig, ax = plt.subplots()
+# ax.plot(x, y)
 # Display the plot
-st.pyplot(fig)
+# st.pyplot(fig)
 
 df = pd.read_csv("data/datagojekcopy.csv")
 
-st.write(df.head())
+st.write(df.head(10))
