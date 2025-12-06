@@ -1,5 +1,5 @@
 # ela6105-latihan01
-Multi page streamlit Praktikum Analisa Big Data Ekonomika.
+Multi page streamlit Praktikum Analisa Big Data Ekonomika ELA6105 Program Studi Ekonomi Pembangunan.
 
 ## Siklus Tugas Kelompok
 1. Masing-masing anggota kelompok menyiapkan Anaconda Prompt.
